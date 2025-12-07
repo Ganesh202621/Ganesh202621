@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 👋 Hi there, I'm **Kankanamge Ganesh Vidarshana**
+#  I'm **Vidarshana**
 
 ### 🚀 **Networking Student | Cloud Networking Learner | Web Developer | Tech Enthusiast**
 
