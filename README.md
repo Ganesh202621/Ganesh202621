@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate student at the **University of Kelaniya**
 
-- 🌱 I’m currently learning **Cloud Networking (ACE - Associate Cloud Engineer)**
+- 🌱 I’m currently learning **Cloud Networking (ACE - Associate Cloud Engineer) & CCNA**
 
 - 💬 Ask me about **Networking(CCNA,Routing & Switching)**
 
