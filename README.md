@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Networking(CCNA,Routing & Switching)**
 
-- 📫 How to reach me **ganeshvidarshana@gmail.com**
+- 📫 How to reach me **ganeshvidar77@gmail.com**
   
 </td>
 
